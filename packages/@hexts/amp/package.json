@@ -6,7 +6,7 @@
   "dependencies": {
     "@hexts/common": "^0.0.3"
   },
-  "gitHead": "1a40bfd283060c9ce43057c7585b1b6a98f77de0",
+  "gitHead": "33cf38b42262273222fcaa242d40512df65ee98b",
   "publishConfig": {
     "access": "public"
   }

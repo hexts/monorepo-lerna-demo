@@ -1,9 +1,22 @@
 {
   "name": "monorepo-lerna-demo",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "changelog": "npx lerna-changelog",
+    "version": "node scripts/genChangelog.js && git add CHANGELOG.md"
+  },
   "devDependencies": {
-    "lerna": "^3.16.4"
+    "execa": "^2.0.4",
+    "lerna": "^3.16.4",
+    "lerna-changelog": "^0.8.2"
+  },
+  "changelog": {
+    "labels": {
+      "feature": "New Feature",
+      "bug": "Bug Fix",
+      "chore": "Chore"
+    }
   }
 }

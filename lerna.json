@@ -1,10 +1,7 @@
 {
   "version": "0.0.8-alpha.0",
   "npmClient": "yarn",
-  "packages": [
-    "packages/@hexts/amp",
-    "packages/@hexts/common"
-  ],
+  "packages": ["packages/@hexts/amp", "packages/@hexts/common"],
   "changelog": {
     "repo": "hexts/monorepo-lerna-demo",
     "labels": {
@@ -14,9 +11,12 @@
       "PR: Documentation": ":memo: Documentation",
       "PR: Internal": ":house: Internal",
       "PR: Underlying Tools": ":hammer: Underlying Tools",
-      "chore": ":hammer: Underlying Tools",
-      "fix": ":hammer: Underlying Tools",
-      "feat": ":hammer: Underlying Tools"
+      "feat": ":rocket: New Feature",
+      "chore": ":rocket: New Feature",
+      "bug": ":bug: Bug Fix",
+      "doc": ":memo: Documentation",
+      "internal": ":house: Internal",
+      "breaking": ":boom: Breaking Change"
     },
     "cacheDir": ".changelog"
   }

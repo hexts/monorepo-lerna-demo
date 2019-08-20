@@ -1,6 +1,6 @@
 {
   "name": "@hexts/common",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "1a40bfd283060c9ce43057c7585b1b6a98f77de0",

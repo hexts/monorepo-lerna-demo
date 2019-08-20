@@ -1,8 +1,10 @@
 {
-  "version": "0.0.5",
-  "npmClient":"yarn",
-  "packages": ["packages/@hexts/amp", "packages/@hexts/common"],
-
+  "version": "0.0.6",
+  "npmClient": "yarn",
+  "packages": [
+    "packages/@hexts/amp",
+    "packages/@hexts/common"
+  ],
   "changelog": {
     "repo": "hexts/monorepo-lerna-demo",
     "labels": {

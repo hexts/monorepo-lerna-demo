@@ -1,8 +1,5 @@
 {
-  "packages": [
-    "packages/@hexts/amp",
-    "packages/@hexts/common"
-  ],
+  "packages": ["packages/@hexts/amp", "packages/@hexts/common"],
   "version": "0.0.5",
   "changelog": {
     "repo": "hexts/monorepo-lerna-demo",
@@ -12,7 +9,10 @@
       "PR: Bug Fix": ":bug: Bug Fix",
       "PR: Documentation": ":memo: Documentation",
       "PR: Internal": ":house: Internal",
-      "PR: Underlying Tools": ":hammer: Underlying Tools"
+      "PR: Underlying Tools": ":hammer: Underlying Tools",
+      "chore": ":hammer: Underlying Tools",
+      "fix": ":hammer: Underlying Tools",
+      "feat": ":hammer: Underlying Tools"
     },
     "cacheDir": ".changelog"
   }

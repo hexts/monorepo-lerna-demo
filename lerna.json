@@ -1,7 +1,6 @@
 {
   "packages": [
-    "packages/@hexts/amp",
-    "packages/@hexts/common"
+    "packages/@hexts/*"
   ],
   "version": "0.0.1"
 }

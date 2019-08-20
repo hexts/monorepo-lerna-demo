@@ -1,6 +1,9 @@
 {
-  "packages": ["packages/@hexts/amp", "packages/@hexts/common"],
-  "version": "0.0.4",
+  "packages": [
+    "packages/@hexts/amp",
+    "packages/@hexts/common"
+  ],
+  "version": "0.0.5",
   "changelog": {
     "repo": "hexts/monorepo-lerna-demo",
     "labels": {

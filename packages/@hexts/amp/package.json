@@ -1,10 +1,10 @@
 {
   "name": "@hexts/amp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@hexts/common": "^0.0.1"
+    "@hexts/common": "^0.0.2"
   },
   "gitHead": "ea2ec3fed88c46b70d74212def903f15a629bf45"
 }
